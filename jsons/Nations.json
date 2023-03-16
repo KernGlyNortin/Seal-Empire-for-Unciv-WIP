@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Seal Empire",
+		"leaderName": "Pusa II",
+		"adjective": ["seal"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "cute and fluffy",
+		"startIntroPart2": "I love seals",
+		
+		"declaringWar": "You seem to treat our children badly, prepare to be treated the same.",
+		"attacked": "What, a war?? it is a foreign concept to us.",
+		"defeated": "There is no way the land creatures are able to destroy us, the goddess of the sea promised that creatures of the sea will conquer the land.",
+		"introduction": "Greetings, i am the chosen of the sea goddess.",
+		
+		"neutralHello": "How are you doing, my land friend?",
+		"neutralLetsHearIt": "We will listen.",
+		"neutralNo": "We refuse.",
+		"neutralYes": "Good idea.",
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": "We will try to listen.",
+		"hateNo": "We will disagree this time.",
+		"hateYes": "Fine.",
+		
+		"afterPeace": "Very well, all that fighting was tiring for us.",
+		"tradeRequest": "We would like to trade our resources with yours.",
+
+		"outerColor": [0,26,51],
+		"innerColor": [243,246,251],
+
+		"cities": ["White as snow","Blue as the sea","Dark as an adult","Pure as a child","Baikal Town","Saimaa Town","Glacier City","Fish Port","Krill Port",
+			"Crab Port","Whale Port","Dusty Snow","Aurora of the night sky","Deep Ice","Dark waters","Deep Lake","Temple of the sea","Blessings for the fisherseal","Learning sea"]
+	}
+]

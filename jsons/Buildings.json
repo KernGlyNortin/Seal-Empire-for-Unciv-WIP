@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Sea Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Seal Empire",
+		"culture": 3,
+		"requiredBuilding": "Monument",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	}
+]

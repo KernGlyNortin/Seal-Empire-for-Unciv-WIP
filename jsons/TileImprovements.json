@@ -1,0 +1,23 @@
+[	
+	{
+		"name": "Spawning Colony",
+		"uniqueTo": "Seal Empire",
+		"food": 2,
+		"happiness": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"improvingTech": "Guilds",
+		"improvingTechStats": {"gold": 1},
+		"terrainsCanBeBuiltOn": ["Snow","Tundra"]
+	},
+	{
+		"name": "Fishing Spot", 
+		"uniqueTo": "Seal Empire",
+		"food": 2,
+		"happiness": 1,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"techRequired": "Sailing",
+		"terrainsCanBeBuiltOn": ["Coast"]
+	}
+]

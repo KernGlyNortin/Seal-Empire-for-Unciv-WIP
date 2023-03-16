@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Whale Riders",
+		"replaces": "Frigate",
+		"uniqueTo": "Seal Empire",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 20,
+		"rangedStrength": 29,
+		"cost": 160,
+		"requiredTech": "Navigation",
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Kaiju",
+		"unitType": "Ranged",
+		"uniqueTo": "Seal Empire",
+		"replaces": "Giant Death Robot",
+		"movement": 3,
+		"strength": 160,
+		"cost": 550,
+		"requiredResource": "Uranium",
+		"requiredTech": "Nuclear Fusion",
+		"uniques": ["Can move after attacking","No defensice terrain bonus", "", "[+50%] Strength vs Land units"],
+		"hurryCostModifier": 20
+	},
+]
